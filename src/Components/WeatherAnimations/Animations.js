@@ -2,7 +2,6 @@ import React from "react";
 import Lottie from "lottie-react";
 import Snow from "../../assets/snow.json";
 import Rain from "../../assets/rain.json";
-import Sunny from "../../assets/sunny.json";
 import Cloudy from "../../assets/cloudy.json";
 
 const Animations = ({ name }) => {
@@ -20,6 +19,9 @@ const Animations = ({ name }) => {
     case "Clouds":
       animation = Cloudy;
       break;
+    default:
+        animation = Cloudy;
+
   }
 
   return (
