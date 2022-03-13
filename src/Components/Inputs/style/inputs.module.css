@@ -1,0 +1,14 @@
+.inputArea {
+  padding: 0.5rem;
+}
+
+.cityIcon {
+  width: 50px;
+  margin: 0 10px;
+}
+
+.submitBtn {
+  letter-spacing: 1px;
+  background-color: #00b7ff !important;
+}
+/*# sourceMappingURL=inputs.module.css.map */
