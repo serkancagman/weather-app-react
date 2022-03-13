@@ -14,4 +14,4 @@ You can use it to check the weather in your city and in other cities.
 
 ## How Does It Look?
 
-![](../weatherapp/src/assets/weatherapp.gif)
+![](src/assets/weatherapp.gif)
